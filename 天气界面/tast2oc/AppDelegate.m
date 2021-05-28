@@ -1,8 +1,8 @@
 //
 //  AppDelegate.m
-//  test1
+//  tast2oc
 //
-//  Created by 李浩宇 on 2021/5/13.
+//  Created by 李浩宇 on 2021/5/20.
 //
 
 #import "AppDelegate.h"
@@ -13,7 +13,6 @@
 @end
 
 @implementation AppDelegate
-
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
@@ -38,31 +37,14 @@
     return YES;
 }
 
+
 /*
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
     return YES;
 }
-*/
-/*
-- (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-    
-    self.window = [[UIWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
-    
-    self.window.rootViewController = [[ViewController alloc] init];
-    
-    self.window.backgroundColor = [UIColor whiteColor];
-    
-    [self.window makeKeyAndVisible];
-    
-    return YES;
-}
-*/
 
 
-
-
-/*
 #pragma mark - UISceneSession lifecycle
 
 
